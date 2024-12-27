@@ -1,5 +1,4 @@
 
-Here’s a professional README file for a Sales Insights project:
 
 Sales Insights Dashboard
 Overview
